@@ -6,8 +6,5 @@ Integrantes:
 - Hugo Manrique
 - Alexis Yasinowsky
 
-Subimos cada uno su calculadora en este repo porque cada uno ya habia
-empezado la suya y decidimos hacer cada calculadora a nuestra manera, pero ayudandonos 
-en reuniones por meet, dandonos ideas de que funciones poder usar, basicamente
-tenemos casi el mismo codigo pero las calculadoras tienen distintos estilos.
-
+A pesar de que el enunciado propusiera un trabajo grupal, decidimos hacer un proyecto de una calculadora por cada integrante, para poder  manejar cada uno sus propios tiempos y en forma de repaso de la mayoria de las cosas que se vieron durante la cursada.  Cada uno le dio un estilo diferente en cuanto a apariencia  pero, los procedimientos de las funciones que componen los programas guardan todas las sugerencias y aportes que se fueron acordandas en las diferentes comunicaciones.  
+Una experie  enriquecedora  que denota un pequeño "primer paso" de lo que a futuro será un largo recorrido.
