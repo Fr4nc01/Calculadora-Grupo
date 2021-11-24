@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1637719326 source:c:\users\man\documents\programacion1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesMan.h"
+	"MiMenu.h"
+
+1637719249 c:\users\man\documents\programacion1\tp1\funcionesman.h
+	<stdio.h>
+	<stdlib.h>
+
+1637719249 c:\users\man\documents\programacion1\tp1\mimenu.h
+	<stdio.h>
+	<stdlib.h>
+
+1637742864 source:c:\users\man\documents\programacion1\tp1  man\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"FuncionesMan.h"
+	"MiMenu.h"
+
+1637742783 c:\users\man\documents\programacion1\tp1  man\funcionesman.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1637742771 c:\users\man\documents\programacion1\tp1  man\mimenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1637742889 source:c:\users\man\desktop\trabajo practico 1  manrique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"FuncionesMan.h"
+	"MiMenu.h"
+
+1637742783 c:\users\man\desktop\trabajo practico 1  manrique\funcionesman.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1637742771 c:\users\man\desktop\trabajo practico 1  manrique\mimenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
