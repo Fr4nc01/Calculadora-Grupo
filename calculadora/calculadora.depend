@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637669647 source:c:\users\xaleon\desktop\programacion\calculadora\funcioness.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"cabecera.h"
+
+1637668663 source:c:\users\xaleon\desktop\programacion\calculadora\main.c
+	<stdlib.h>
+	"cabecera.h"
+	<stdio.h>
+	<windows.h>
+
+1637676553 c:\users\xaleon\desktop\programacion\calculadora\cabecera.h
+
